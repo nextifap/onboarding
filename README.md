@@ -72,8 +72,7 @@ Abaixo estão os tópicos que compõem nosso plano de integração.
 | 24/09 | Francisco | **🔒 🛡️ Workshop: Security Best Practices & OWASP Top 10 🛡️** | [Apresentação Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTUYnnsDzF5IXPkKVigxEXV71de6SI8o5vMGwcRbW5Pve3lqqzNPdcXD0IF-aSnOzN9vmcwqR5szd_G/pub?start=false&loop=false&delayms=3000) |
 | 24/09 | Francisco | **Arquitetura & Boas Práticas de Código**                       | Conceitos de camadas, separação de responsabilidades, clean code e convenções de nomenclatura.                                                                                                        |
 | 24/09 | Francisco | **Testes Automatizados**                                        | Criação de testes unitários e de integração para garantir qualidade do código.                                                                                                                        |
-| 24/09 | Francisco | **Soft Skills & Carreira**                                      | Trabalho em equipe, comunicação, resolução de conflitos, oportunidades de crescimento no laboratório.                                                                                                 |
-                                                                                              |
+| 24/09 | Francisco | **Soft Skills & Carreira**                                      | Trabalho em equipe, comunicação, resolução de conflitos, oportunidades de crescimento no laboratório. |
 
 ---
 
